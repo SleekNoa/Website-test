@@ -1,82 +1,0 @@
-[1mdiff --git a/images/gallery/fulls/006.jpg b/images/gallery/fulls/006.jpg[m
-[1mindex 6ab2ec0..1d3065e 100644[m
-Binary files a/images/gallery/fulls/006.jpg and b/images/gallery/fulls/006.jpg differ
-[1mdiff --git a/images/gallery/fulls/04.jpg b/images/gallery/fulls/04.jpg[m
-[1mdeleted file mode 100644[m
-[1mindex f6f710d..0000000[m
-Binary files a/images/gallery/fulls/04.jpg and /dev/null differ
-[1mdiff --git a/images/gallery/thumbs/006.jpg b/images/gallery/thumbs/006.jpg[m
-[1mindex 6ab2ec0..1d3065e 100644[m
-Binary files a/images/gallery/thumbs/006.jpg and b/images/gallery/thumbs/006.jpg differ
-[1mdiff --git a/images/gallery/thumbs/04.jpg b/images/gallery/thumbs/04.jpg[m
-[1mdeleted file mode 100644[m
-[1mindex 1ed2909..0000000[m
-Binary files a/images/gallery/thumbs/04.jpg and /dev/null differ
-[1mdiff --git a/index.html b/index.html[m
-[1mindex 309712f..b2aac57 100644[m
-[1m--- a/index.html[m
-[1m+++ b/index.html[m
-[36m@@ -25,7 +25,10 @@[m
- 								<div class="content color0 span-3-75">[m
- 									<h1 class="major">Hello, my name<br />[m
- 									is Noah Medulan</h1>[m
-[31m-									<p>I am an <strong>Electro-Mechanical Designer</strong> at Collins Aerospace with over 3 years of experience in avionics, RIGS (Research, Integration, and Ground Systems), and flight deck integration. I am currently pursuing a <strong>B.S. in Computer Science</strong> at Southern New Hampshire University, focusing on Software Development, AI, and Embedded Systems. Passionate about bridging hardware and software in aerospace.</p>[m
-[32m+[m									[32m<p>[m[41m[m
-[32m+[m										[32mI am an <strong>Electro-Mechanical Designer at Collins Aerospace</strong>, designing and supporting aerospace hardware for avionics and flight equipment.[m[41m[m
-[32m+[m										[32mI’m also completing a <strong>B.S. in Computer Science</strong>, building experience in software, embedded systems, and artificial intelligence. I’m interested in bringing hardware and software together to build intelligent engineering systems.[m[41m[m
-[32m+[m									[32m</p>[m[41m[m
- 									<ul class="actions">[m
- 										<li><a href="#first" class="button primary color1 circle icon solid fa-angle-right">Next</a></li>[m
- 									</ul>[m
-[36m@@ -51,7 +54,13 @@[m
- 										opacity: 0.9;[m
- 									"></div>[m
- 									<h2 class="major">About Me</h2>[m
-[31m-									<p>I design and document electro-mechanical systems for aerospace applications at Collins Aerospace, applying ASME standards, GD&T, and PDM configuration management in Agile environments. My work supports critical avionics testing and integration programs. Alongside my professional role, I am studying Computer Science full-time, gaining expertise in software development, AI, and embedded systems. This unique combination allows me to approach engineering challenges from a systems-level perspective, blending hardware design with software solutions. I also mentor high school robotics teams, sharing knowledge in CAD, sensor integration, and embedded programming.</p>[m
-[32m+[m									[32m<p>[m[41m[m
-[32m+[m										[32mMy background combines <strong>aerospace hardware design and computer science</strong>. At Collins Aerospace, I design and document electro-mechanical hardware supporting avionics, flight equipment, and RIGS development. I work alongside electrical, systems, and test engineers to develop practical, buildable hardware and supporting technical documentation.[m[41m[m
-[32m+[m[41m[m
-[32m+[m										[32mMy Computer Science studies have expanded my foundation into <strong>C++, Python, software engineering, artificial intelligence, and embedded systems</strong>. I apply these skills through projects involving <strong>Raspberry Pi, ESP32, robotics, local AI, and AI-assisted engineering workflows</strong>, with a growing interest in intelligent and autonomous systems.[m[41m[m
-[32m+[m[41m[m
-[32m+[m										[32mI’m interested in engineering opportunities that allow me to build on my aerospace hardware experience while expanding further into <strong>software, embedded systems, autonomy, and applied AI</strong>.[m[41m[m
-[32m+[m									[32m</p>[m[41m[m
- 								</div>[m
- 								<div class="image filtered tinted" data-position="top left">[m
- 									<img src="images/pic02.jpg" alt="Work or project-related image" />[m
-[36m@@ -62,7 +71,7 @@[m
- 							<section class="panel color1">[m
- 								<div class="intro joined">[m
- 									<h2 class="major">Skills</h2>[m
-[31m-									<p>Proficient in mechanical design, CAD tools, aerospace standards, and growing expertise in software development and embedded systems.</p>[m
-[32m+[m									[32m<p>Experienced in <strong>electro-mechanical design, aerospace hardware, CAD, GD&T, and configuration-controlled documentation</strong>, with developing expertise in <strong>C++, Python, software engineering, embedded systems, robotics, and artificial intelligence</strong>.</p>[m[41m[m
- 								</div>[m
- 								<div class="inner">[m
- 									<ul class="grid-icons three connected">[m
-[36m@@ -80,7 +89,11 @@[m
- 							<section class="panel spotlight large left">[m
- 								<div class="content span-5">[m
- 									<h2 class="major">Experience & Projects</h2>[m
-[31m-									<p>At Collins Aerospace, I design RIGS racks, flight deck assemblies, and integration hardware for avionics testing. I collaborate cross-functionally in Agile teams and contribute to process improvements. In my studies and mentoring, I work on embedded systems projects including sensor integration, odometry, vision systems, and robotics programming. I’m building a portfolio of software projects in C++, data structures, and AI applications while applying real-world engineering principles daily.</p>[m
-[32m+[m									[32m<p>[m[41m[m
-[32m+[m										[32mAt Collins Aerospace, I support <strong>RIGS and aerospace flight-equipment development</strong> through mechanical design, CAD modeling, technical documentation, cable drawings, configuration-controlled hardware, and build support. I work alongside electrical, systems, and test engineers to develop and refine equipment used in aerospace development and testing.[m[41m[m
-[32m+[m[41m[m
-[32m+[m										[32mOutside of work, I develop software and embedded projects using <strong>C++, Python, Raspberry Pi, and ESP32</strong>. My projects include embedded diagnostics, robotics, MCP-based engineering tools, and AI-assisted workflows exploring how intelligent software can work with structured engineering information and physical systems.[m[41m[m
-[32m+[m									[32m</p>[m[41m[m
- 								</div>[m
- 								<div class="image filtered tinted" data-position="top right">[m
- 									<img src="images/pic03.jpg" alt="Project or workplace image" />[m
-[36m@@ -91,22 +104,24 @@[m
- 							<section class="panel">[m
- 								<div class="intro color2">[m
- 									<h2 class="major">Portfolio Gallery</h2>[m
-[31m-									<p>Selected visuals from professional designs (non-proprietary), robotics mentoring, and academic projects.</p>[m
-[32m+[m									[32m<p>[m[41m[m
-[32m+[m										[32mA selection of <strong>non-proprietary aerospace design work, robotics projects, embedded systems, software projects, and AI engineering experiments</strong>.[m[41m[m
-[32m+[m									[32m</p>[m[41m[m
- 								</div>[m
- 								<div class="gallery">[m
- 									<div class="group span-3">[m
-[31m-										<a href="images/gallery/fulls/001.jpg" class="image filtered span-3" data-position="bottom"><img src="images/gallery/thumbs/001e.jpg" alt="CAD design example" /></a>[m
-[31m-										<a href="images/gallery/fulls/002.jpg" class="image filtered span-1-5" data-position="center"><img src="images/gallery/thumbs/002.jpg" alt="Robotics project" /></a>[m
-[31m-										<a href="images/gallery/fulls/03.jpg" class="image filtered span-1-5" data-position="bottom"><img src="images/gallery/thumbs/03.jpg" alt="Code snippet or diagram" /></a>[m
-[32m+[m										[32m<a href="images/gallery/fu
